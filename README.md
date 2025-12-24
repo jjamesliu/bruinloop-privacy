@@ -28,7 +28,7 @@ The app:
 All information displayed in the app is derived from publicly available campus data and is used solely to display room and space availability.
 
 The full privacy policy can be viewed here:  
-👉 **https://YOUR_USERNAME.github.io/bruinloop-privacy/**
+👉 **[https://jjamesliu.github.io/bruinloop-privacy/](https://jjamesliu.github.io/bruinloop-privacy/)**
 
 ---
 
@@ -37,9 +37,6 @@ The full privacy policy can be viewed here:
 If you have any questions or concerns regarding privacy, please contact:
 
 **liujameszhi@gmail.com**
-
----
-
 
 ---
 
